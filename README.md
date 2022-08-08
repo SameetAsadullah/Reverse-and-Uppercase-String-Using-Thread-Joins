@@ -6,7 +6,7 @@ A simple `C++ Program` to reverse the string and convert it into uppercase lette
 2) Without using pthread_t global variables `(main1.cpp)`
 
 ### Manual
-1) Use any of the following command to `Complie the Code`:
+1) Use any of the following command to `Compile the Code`:
     ```
     g++ main.cpp
     ```
